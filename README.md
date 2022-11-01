@@ -1,6 +1,9 @@
 # acs-1111-bank-account
 Bank Account OOP assignment for Python
 
+## Video Walkthrough:
+https://youtu.be/SvKRH_F7UBo
+
 ## Usage
 ```bash
 python3 bank_account.py
